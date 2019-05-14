@@ -1,0 +1,7 @@
+
+*.pyc
+.DS_Store
+.idea/*
+rnn_controller/.idea/*
+python/test/*
+saved_s3_notebooks/*
