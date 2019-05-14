@@ -1,0 +1,10 @@
+seaborn
+scipy
+numpy<=1.14.5,>=1.13.3
+matplotlib
+pandas
+boto3
+tensorflow==1.12
+tensorflow-probability==0.5
+imageio
+astropy
