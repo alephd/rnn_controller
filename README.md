@@ -1,5 +1,5 @@
 # RNN Controller
-RNN controller code used in paper paper ["Recurrent Neural Networks for Stochastic Control in Real-Time Bidding"](https://doi.org/10.1145/3292500.3330749) in The 25th ACM SIGKDD Conference ([KDD'19](https://www.kdd.org/kdd2019/)).
+RNN controller code used in paper ["Recurrent Neural Networks for Stochastic Control in Real-Time Bidding"](https://doi.org/10.1145/3292500.3330749) in The 25th ACM SIGKDD Conference ([KDD'19](https://www.kdd.org/kdd2019/)).
 
 ## Usage
 
